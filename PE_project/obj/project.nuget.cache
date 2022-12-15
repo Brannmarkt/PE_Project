@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGg9249gALcqdnyO3BBKNUOOkyEKx8+0ttJuuk9hvym0QiqW62/zlqratzC/omOcflMM41TXUFJir46zka+2bg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\PE_project\\PE_project\\PE_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дом\\.nuget\\packages\\penet\\2.9.9\\penet.2.9.9.nupkg.sha512",
+    "C:\\Users\\Дом\\.nuget\\packages\\penet.asn1\\2.0.0\\penet.asn1.2.0.0.nupkg.sha512",
+    "C:\\Users\\Дом\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Дом\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\Дом\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Дом\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\Дом\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.1\\system.security.cryptography.pkcs.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
